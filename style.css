@@ -1,0 +1,17 @@
+
+a:VISITED
+{
+	color:red;
+}
+a:LINK
+{
+	color:blue;
+}
+a:HOVER
+{
+color:green;
+}
+a:ACTIVE
+{
+color:purple;
+}
